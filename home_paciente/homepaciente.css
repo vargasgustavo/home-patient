@@ -156,8 +156,11 @@ body{
 }
 
 .main-container{
-    width: 80vw;
+    width: 98.7vw;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .body-main{
