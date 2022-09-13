@@ -23,19 +23,12 @@ body{
 }
 
 .logo-header{
-    height: 7vh;
-    width: 13vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 10px;
+    height: 0vh;
 }
 
 .logo{
-    margin-top: 30px;
     width: 100%;
     height: 100%;
-    cursor: pointer;
 }
 
 .header-btn{
@@ -47,10 +40,8 @@ body{
     border-radius: 25px;
     padding: 10px;
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     width: 60%;
-    letter-spacing: 2px;
-    cursor: pointer;
 }
 
 .header-btna{
@@ -62,13 +53,11 @@ body{
     border-radius: 25px;
     padding: 10px;
     width: 60%;
-    letter-spacing: 2px;
-    cursor: pointer;
 }
 
 .links-header{
     width: 20vw;
-    height: 91.7vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -76,7 +65,7 @@ body{
 
 .nav-links-header{
     width: 20vw;
-    height: 80vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -84,7 +73,7 @@ body{
 
 .ul-links-header{
     width: 20vw;
-    height: 80vh;
+    height: 95.8vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -95,19 +84,19 @@ body{
 }
 
 .li-one-links-header{
-    letter-spacing: 2px;
+
 }
 
 .li-two-links-header{
-    letter-spacing: 2px;
+
 }
 
 .li-three-links-header{
-    letter-spacing: 2px;
+
 }
 
 .li-four-links-header{
-    letter-spacing: 2px;
+
 }
 
 .a-one-links-header{
@@ -132,19 +121,19 @@ body{
 }
 
 .a-one-links-header:hover{
-    text-decoration: underline;
+
 }
 
 .a-two-links-header:hover{
-    text-decoration: underline;
+
 }
 
 .a-three-links-header:hover{
-    text-decoration: underline;
+
 }
 
 .a-four-links-header:hover{
-    text-decoration: underline;
+
 }
 
 .responsive-header{
@@ -155,27 +144,12 @@ body{
 
 }
 
-.main-container{
-    width: 98.7vw;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .body-main{
-    width: 100%;
-    height: 100vh;
+
 }
 
 .one-body-main{
 
-}
-
-.title-main{
-    color: #11B9C4;
-    text-transform: uppercase;
-    font-size: 1.8rem;
 }
 
 .two-body-main{
@@ -187,8 +161,7 @@ body{
 }
 
 .body-footer{
-    width: 0vw;
-    height: 0vh;
+
 }
 
 .body-footer-conteiner{
